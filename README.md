@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CristoferDeLeon
-- 👀 I’m interested in ... Data
-- 🌱 I’m currently learning ... SQL & Python through Datacamp.com
-- 💞️ I’m looking to collaborate on ... DBA projects
+- 👀 I’m interested in ... Development
+- 🌱 I’m currently learning ... Java, Javascript, C#, Python
+- 💞️ I’m looking to collaborate on ... Java APIs designing
 - 📫 How to reach me ... cedeleon1591@gmail.com
 
 <!---
